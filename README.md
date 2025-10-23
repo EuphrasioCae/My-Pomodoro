@@ -28,6 +28,6 @@ O app também exibe informações úteis em tempo real:</br>
  - Contador de ciclos concluídos, pomodoros e horas trabalhadas.</br>
 
 ## Tecnologias</br>
-  -React</br>
-  -TypeScript</br>
-  -CSS Modules / Tailwind / Styled Components</br>
+ - React</br>
+ - TypeScript</br>
+ - CSS Modules / Tailwind / Styled Components</br>
