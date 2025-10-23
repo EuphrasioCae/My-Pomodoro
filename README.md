@@ -1,5 +1,6 @@
 # Pomodoro — React + TypeScript</br>
 Aplicativo Pomodoro simples e elegante feito em React com TypeScript para ajudar você a focar no trabalho e gerenciar descansos de forma eficiente.</br>
+Link para acessar o aplicativo: (https://mypersonalpomodor.netlify.app/)
 
 ## Visão geral</br>
 O aplicativo possui dois modos principais:
