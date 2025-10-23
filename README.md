@@ -26,7 +26,7 @@ O app também exibe informações úteis em tempo real:</br>
  - Interface responsiva e acessível.</br>
  - Contador de ciclos concluídos, pomodoros e horas trabalhadas.</br>
 
-## Tecnologias</br>
+## Tecnologias utilizadas</br>
  - React</br>
  - TypeScript</br>
  - CSS Modules / Tailwind / Styled Components</br>
